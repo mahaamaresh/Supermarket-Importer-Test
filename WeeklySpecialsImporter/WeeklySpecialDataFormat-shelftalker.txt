@@ -1,0 +1,27 @@
+10.0
+25
+1	SQLCHAR		0	1	""	1	Action		Latin1_General_CI_AS
+2	SQLCHAR		0	7	""	2	PromoNo		Latin1_General_CI_AS
+3	SQLCHAR		0	7	""	3	OfferNo		Latin1_General_CI_AS
+4	SQLCHAR		0	18	""	4	ProductArticle	Latin1_General_CI_AS
+5	SQLCHAR		0	4	""	5	StoreNo		Latin1_General_CI_AS
+6	SQLCHAR		0	5	""	6	Assortment_Num	Latin1_General_CI_AS
+7	SQLCHAR		0	35	""	20	Assortment_Desc	Latin1_General_CI_AS
+8	SQLCHAR		0	8	""	7	Price		Latin1_General_CI_AS
+9	SQLCHAR		0	10	""	8	StartDate	Latin1_General_CI_AS
+10	SQLCHAR		0	10	""	9	EndDate		Latin1_General_CI_AS
+11	SQLCHAR		0	8	""	10	CupPrice	Latin1_General_CI_AS
+12	SQLCHAR		0	3	""	11	CupSize		Latin1_General_CI_AS
+13	SQLCHAR		0	2	""	12	CupUOM		Latin1_General_CI_AS
+14	SQLCHAR		0	130	""	19	Details		Latin1_General_CI_AS
+15	SQLCHAR		0	25	""	13	Description	Latin1_General_CI_AS
+16	SQLCHAR		0	2	""	14	MediaType	Latin1_General_CI_AS
+17	SQLCHAR		0	25	""	15	OfferLimit	Latin1_General_CI_AS
+18	SQLCHAR		0	80	""	16	ShelfTalkerText	Latin1_General_CI_AS
+19	SQLCHAR		0	6	""	17	Margin		Latin1_General_CI_AS
+20	SQLCHAR		0	6	""	18	Savings		Latin1_General_CI_AS
+21	SQLCHAR		0	3	""		23	DisplayType				Latin1_General_CI_AS
+22	SQLCHAR		0	1	""		24	RewardCardPromoFlag		Latin1_General_CI_AS
+23	SQLCHAR		0	3	""	22	PurchaseLimit			Latin1_General_CI_AS
+24	SQLCHAR		0	20	""	26	SpecialText			Latin1_General_CI_AS
+25	SQLCHAR		0	2	"\r\n"	27	ShelftalkerType			Latin1_General_CI_AS

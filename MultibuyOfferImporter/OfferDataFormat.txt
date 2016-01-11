@@ -1,0 +1,17 @@
+10.0
+14
+1	SQLCHAR		0	1	""	1	Action			Latin1_General_CI_AS
+2	SQLCHAR		0	18	""	2	ProductArticle		Latin1_General_CI_AS
+3	SQLCHAR		0	4	""	3	StoreNo			Latin1_General_CI_AS
+4	SQLCHAR		0	7	""	4	OfferNo			Latin1_General_CI_AS
+5	SQLCHAR		0	10	""	5	StartDate		Latin1_General_CI_AS
+6	SQLCHAR		0	5	""	12	StartTime		Latin1_General_CI_AS
+7	SQLCHAR		0	10	""	6	EndDate			Latin1_General_CI_AS
+8	SQLCHAR		0	5	""	13	EndTime			Latin1_General_CI_AS
+9	SQLCHAR		0	130	""	7	Details			Latin1_General_CI_AS
+10	SQLCHAR		0	25	""	8	Limit			Latin1_General_CI_AS
+11	SQLCHAR		0	80	""	9	Description		Latin1_General_CI_AS
+12	SQLCHAR		0	1	""	10	EdrOffer		Latin1_General_CI_AS
+13	SQLCHAR		0	1	""	11	TargettedEdrOffer	Latin1_General_CI_AS
+14	SQLCHAR		0	3	"\r\n"	12	UOM					UOMULatin1_General_CI_AS
+

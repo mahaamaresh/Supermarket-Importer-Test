@@ -1,0 +1,9 @@
+C:\Tigerspike_DND\Tiger Spike Unblock\Tigerspike\woolworths-supermarkets-importers\ImporterBLL\bin\Debug\ImporterBLL.dll.config
+C:\Tigerspike_DND\Tiger Spike Unblock\Tigerspike\woolworths-supermarkets-importers\ImporterBLL\bin\Debug\ImporterBLL.dll
+C:\Tigerspike_DND\Tiger Spike Unblock\Tigerspike\woolworths-supermarkets-importers\ImporterBLL\bin\Debug\ImporterBLL.pdb
+C:\Tigerspike_DND\Tiger Spike Unblock\Tigerspike\woolworths-supermarkets-importers\ImporterBLL\bin\Debug\AWSSDK.dll
+C:\Tigerspike_DND\Tiger Spike Unblock\Tigerspike\woolworths-supermarkets-importers\ImporterBLL\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Tigerspike_DND\Tiger Spike Unblock\Tigerspike\woolworths-supermarkets-importers\ImporterBLL\bin\Debug\WoolworthsDAL.dll
+C:\Tigerspike_DND\Tiger Spike Unblock\Tigerspike\woolworths-supermarkets-importers\ImporterBLL\obj\Debug\ImporterBLL.csprojResolveAssemblyReference.cache
+C:\Tigerspike_DND\Tiger Spike Unblock\Tigerspike\woolworths-supermarkets-importers\ImporterBLL\obj\Debug\ImporterBLL.dll
+C:\Tigerspike_DND\Tiger Spike Unblock\Tigerspike\woolworths-supermarkets-importers\ImporterBLL\obj\Debug\ImporterBLL.pdb

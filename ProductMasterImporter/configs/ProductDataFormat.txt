@@ -1,0 +1,13 @@
+10.0
+9
+1	SQLCHAR		0	1	""	1	Action		Latin1_General_CI_AS
+2	SQLCHAR		0	18	""	2	Article		Latin1_General_CI_AS
+3	SQLCHAR		0	40	""	3	Name		Latin1_General_CI_AS
+4	SQLCHAR		0	170	""	4	Description	Latin1_General_CI_AS
+5	SQLCHAR		0	13	""	5	EAN		Latin1_General_CI_AS
+6	SQLCHAR		0	1	""	6	PrimeEan	Latin1_General_CI_AS
+7	SQLCHAR		0	1	""	7	LiquorFlag	Latin1_General_CI_AS
+8	SQLCHAR		0	4	""	8	LookUpCode	Latin1_General_CI_AS
+9	SQLCHAR		0	1	"\r\n"	9	RandomWeight	Latin1_General_CI_AS
+
+

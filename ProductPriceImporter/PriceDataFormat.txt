@@ -1,0 +1,21 @@
+10.0
+18
+1       SQLCHAR             0       1       ""     1     Action                       	Latin1_General_CI_AS
+2       SQLCHAR             0       18      ""     2     ProductArticle               	Latin1_General_CI_AS
+3       SQLCHAR             0       4       ""     3     StoreNo                      	Latin1_General_CI_AS
+4       SQLCHAR             0       8       ""     4     StdPriceExGST                	Latin1_General_CI_AS
+5       SQLCHAR             0       8       ""     5     StdPriceIncGST               	Latin1_General_CI_AS
+6       SQLCHAR             0       10      ""     6     PromoStartDate               	Latin1_General_CI_AS
+7       SQLCHAR             0       10      ""     7     PromoEndDate                 	Latin1_General_CI_AS
+8       SQLCHAR             0       8       ""     8     PromoPriceExGST              	Latin1_General_CI_AS
+9       SQLCHAR             0       8       ""     9     PromoPriceIncGST             	Latin1_General_CI_AS
+10      SQLCHAR             0       8       ""     10    CupPrice                     	Latin1_General_CI_AS
+11      SQLCHAR             0       3       ""     11    CupSize                      	Latin1_General_CI_AS
+12      SQLCHAR             0       2       ""     12    CupUOM                       	Latin1_General_CI_AS
+13      SQLCHAR             0       15      ""     13    SavingsText                  	Latin1_General_CI_AS
+14      SQLCHAR             0       1       ""     14    RewardCardPromoFlag	      	Latin1_General_CI_AS
+15      SQLCHAR             0       3       ""     15    PurchaseLimit			Latin1_General_CI_AS
+16      SQLCHAR             0       3       ""     16    DisplayType			Latin1_General_CI_AS
+17      SQLCHAR             0       1       ""     17    PriceKnockDownFlag		Latin1_General_CI_AS
+18      SQLCHAR             0       1       ""	   18    SelfScanFlag			Latin1_General_CI_AS
+19      SQLCHAR             0       3       "\r\n" 19    UOM					Latin1_General_CI_AS

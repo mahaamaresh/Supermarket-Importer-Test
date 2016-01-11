@@ -1,0 +1,6 @@
+10.0
+4
+1	SQLCHAR	0	13	","	1	EDRNo		Latin1_General_CI_AS
+2	SQLCHAR	0	2	","	2	Type		Latin1_General_CI_AS
+3	SQLCHAR	0	7	","	3	SpecialNo	Latin1_General_CI_AS
+4	SQLCHAR	0	18	"\n"	4	ProductArticle	Latin1_General_CI_AS

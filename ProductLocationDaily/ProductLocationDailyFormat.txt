@@ -1,0 +1,11 @@
+10.0
+9
+1	SQLCHAR		0	1	","		1	Action		Latin1_General_CI_AS
+2	SQLCHAR		0	4	","		2	StoreNo		Latin1_General_CI_AS
+3	SQLCHAR		0	18	","		3	ProductArticle	Latin1_General_CI_AS
+4	SQLCHAR		0	10	",\""		4	PlanogramID	Latin1_General_CI_AS
+5	SQLCHAR		0	35	"\","		5	PlanogramName	Latin1_General_CI_AS
+6	SQLCHAR		0	5	","		6	Assortment_Num	Latin1_General_CI_AS
+7	SQLCHAR		0	1	","		7	AisleSide	Latin1_General_CI_AS
+8	SQLCHAR		0	3	","		8	BayNo		Latin1_General_CI_AS
+9	SQLCHAR		0	50	"\r\n"		9	Location	Latin1_General_CI_AS

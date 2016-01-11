@@ -1,0 +1,15 @@
+C:\Tigerspike_DND\Tiger Spike Unblock\Tigerspike\woolworths-supermarkets-importers\OnlineSellTypeImporter\bin\Debug\OnlineSellTypeImporter.exe.SIN-DEV.config
+C:\Tigerspike_DND\Tiger Spike Unblock\Tigerspike\woolworths-supermarkets-importers\OnlineSellTypeImporter\bin\Debug\OnlineSellTypeImporter.exe.SIN-INT.config
+C:\Tigerspike_DND\Tiger Spike Unblock\Tigerspike\woolworths-supermarkets-importers\OnlineSellTypeImporter\bin\Debug\OnlineSellTypeImporter.exe.SYD-LIVE-WOW.config
+C:\Tigerspike_DND\Tiger Spike Unblock\Tigerspike\woolworths-supermarkets-importers\OnlineSellTypeImporter\bin\Debug\OnlineSellTypeImporter.exe.SYD-UAT-WOW.config
+C:\Tigerspike_DND\Tiger Spike Unblock\Tigerspike\woolworths-supermarkets-importers\OnlineSellTypeImporter\bin\Debug\OnlineSellTypeImporter.exe.config
+C:\Tigerspike_DND\Tiger Spike Unblock\Tigerspike\woolworths-supermarkets-importers\OnlineSellTypeImporter\bin\Debug\OnlineSellTypeImporter.exe
+C:\Tigerspike_DND\Tiger Spike Unblock\Tigerspike\woolworths-supermarkets-importers\OnlineSellTypeImporter\bin\Debug\OnlineSellTypeImporter.pdb
+C:\Tigerspike_DND\Tiger Spike Unblock\Tigerspike\woolworths-supermarkets-importers\OnlineSellTypeImporter\bin\Debug\ImporterBLL.dll
+C:\Tigerspike_DND\Tiger Spike Unblock\Tigerspike\woolworths-supermarkets-importers\OnlineSellTypeImporter\bin\Debug\WoolworthsDAL.dll
+C:\Tigerspike_DND\Tiger Spike Unblock\Tigerspike\woolworths-supermarkets-importers\OnlineSellTypeImporter\bin\Debug\AWSSDK.dll
+C:\Tigerspike_DND\Tiger Spike Unblock\Tigerspike\woolworths-supermarkets-importers\OnlineSellTypeImporter\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Tigerspike_DND\Tiger Spike Unblock\Tigerspike\woolworths-supermarkets-importers\OnlineSellTypeImporter\bin\Debug\ImporterBLL.pdb
+C:\Tigerspike_DND\Tiger Spike Unblock\Tigerspike\woolworths-supermarkets-importers\OnlineSellTypeImporter\obj\Debug\OnlineSellTypeImporter.exe
+C:\Tigerspike_DND\Tiger Spike Unblock\Tigerspike\woolworths-supermarkets-importers\OnlineSellTypeImporter\obj\Debug\OnlineSellTypeImporter.pdb
+C:\Tigerspike_DND\Tiger Spike Unblock\Tigerspike\woolworths-supermarkets-importers\OnlineSellTypeImporter\obj\Debug\OnlineSellTypeImporter.csprojResolveAssemblyReference.cache

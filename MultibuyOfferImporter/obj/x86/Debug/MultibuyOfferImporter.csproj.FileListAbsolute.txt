@@ -1,0 +1,15 @@
+C:\Tigerspike_DND\Tiger Spike Unblock\Tigerspike\woolworths-supermarkets-importers\MultibuyOfferImporter\bin\Debug\MultibuyOfferImporter.exe.SIN-DEV.config
+C:\Tigerspike_DND\Tiger Spike Unblock\Tigerspike\woolworths-supermarkets-importers\MultibuyOfferImporter\bin\Debug\MultibuyOfferImporter.exe.SIN-INT.config
+C:\Tigerspike_DND\Tiger Spike Unblock\Tigerspike\woolworths-supermarkets-importers\MultibuyOfferImporter\bin\Debug\MultibuyOfferImporter.exe.SYD-LIVE-WOW.config
+C:\Tigerspike_DND\Tiger Spike Unblock\Tigerspike\woolworths-supermarkets-importers\MultibuyOfferImporter\bin\Debug\MultibuyOfferImporter.exe.SYD-UAT-WOW.config
+C:\Tigerspike_DND\Tiger Spike Unblock\Tigerspike\woolworths-supermarkets-importers\MultibuyOfferImporter\bin\Debug\MultibuyOfferImporter.exe.config
+C:\Tigerspike_DND\Tiger Spike Unblock\Tigerspike\woolworths-supermarkets-importers\MultibuyOfferImporter\bin\Debug\MultibuyOfferImporter.exe
+C:\Tigerspike_DND\Tiger Spike Unblock\Tigerspike\woolworths-supermarkets-importers\MultibuyOfferImporter\bin\Debug\MultibuyOfferImporter.pdb
+C:\Tigerspike_DND\Tiger Spike Unblock\Tigerspike\woolworths-supermarkets-importers\MultibuyOfferImporter\bin\Debug\ImporterBLL.dll
+C:\Tigerspike_DND\Tiger Spike Unblock\Tigerspike\woolworths-supermarkets-importers\MultibuyOfferImporter\bin\Debug\WoolworthsDAL.dll
+C:\Tigerspike_DND\Tiger Spike Unblock\Tigerspike\woolworths-supermarkets-importers\MultibuyOfferImporter\bin\Debug\AWSSDK.dll
+C:\Tigerspike_DND\Tiger Spike Unblock\Tigerspike\woolworths-supermarkets-importers\MultibuyOfferImporter\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Tigerspike_DND\Tiger Spike Unblock\Tigerspike\woolworths-supermarkets-importers\MultibuyOfferImporter\bin\Debug\ImporterBLL.pdb
+C:\Tigerspike_DND\Tiger Spike Unblock\Tigerspike\woolworths-supermarkets-importers\MultibuyOfferImporter\obj\x86\Debug\MultibuyOfferImporter.csprojResolveAssemblyReference.cache
+C:\Tigerspike_DND\Tiger Spike Unblock\Tigerspike\woolworths-supermarkets-importers\MultibuyOfferImporter\obj\x86\Debug\MultibuyOfferImporter.exe
+C:\Tigerspike_DND\Tiger Spike Unblock\Tigerspike\woolworths-supermarkets-importers\MultibuyOfferImporter\obj\x86\Debug\MultibuyOfferImporter.pdb

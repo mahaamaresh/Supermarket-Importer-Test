@@ -1,0 +1,14 @@
+C:\Tigerspike_DND\Tiger Spike Unblock\Tigerspike\woolworths-supermarkets-importers\RecipePELImporter\bin\Debug\RecipePELImporter.exe.SIN-DEV.config
+C:\Tigerspike_DND\Tiger Spike Unblock\Tigerspike\woolworths-supermarkets-importers\RecipePELImporter\bin\Debug\RecipePELImporter.exe.SIN-INT.config
+C:\Tigerspike_DND\Tiger Spike Unblock\Tigerspike\woolworths-supermarkets-importers\RecipePELImporter\bin\Debug\RecipePELImporter.exe.SYD-LIVE-WOW.config
+C:\Tigerspike_DND\Tiger Spike Unblock\Tigerspike\woolworths-supermarkets-importers\RecipePELImporter\bin\Debug\RecipePELImporter.exe.SYD-UAT-WOW.config
+C:\Tigerspike_DND\Tiger Spike Unblock\Tigerspike\woolworths-supermarkets-importers\RecipePELImporter\bin\Debug\RecipePELImporter.exe.config
+C:\Tigerspike_DND\Tiger Spike Unblock\Tigerspike\woolworths-supermarkets-importers\RecipePELImporter\bin\Debug\RecipePELImporter.exe
+C:\Tigerspike_DND\Tiger Spike Unblock\Tigerspike\woolworths-supermarkets-importers\RecipePELImporter\bin\Debug\RecipePELImporter.pdb
+C:\Tigerspike_DND\Tiger Spike Unblock\Tigerspike\woolworths-supermarkets-importers\RecipePELImporter\bin\Debug\ImporterBLL.dll
+C:\Tigerspike_DND\Tiger Spike Unblock\Tigerspike\woolworths-supermarkets-importers\RecipePELImporter\bin\Debug\WoolworthsDAL.dll
+C:\Tigerspike_DND\Tiger Spike Unblock\Tigerspike\woolworths-supermarkets-importers\RecipePELImporter\bin\Debug\AWSSDK.dll
+C:\Tigerspike_DND\Tiger Spike Unblock\Tigerspike\woolworths-supermarkets-importers\RecipePELImporter\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Tigerspike_DND\Tiger Spike Unblock\Tigerspike\woolworths-supermarkets-importers\RecipePELImporter\bin\Debug\ImporterBLL.pdb
+C:\Tigerspike_DND\Tiger Spike Unblock\Tigerspike\woolworths-supermarkets-importers\RecipePELImporter\obj\Debug\RecipePELImporter.exe
+C:\Tigerspike_DND\Tiger Spike Unblock\Tigerspike\woolworths-supermarkets-importers\RecipePELImporter\obj\Debug\RecipePELImporter.pdb

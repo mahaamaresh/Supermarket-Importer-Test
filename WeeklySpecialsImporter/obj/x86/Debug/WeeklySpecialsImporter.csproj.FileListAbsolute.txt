@@ -1,0 +1,17 @@
+C:\Tigerspike_DND\Tiger Spike Unblock\Tigerspike\woolworths-supermarkets-importers\WeeklySpecialsImporter\bin\Debug\WeeklySpecialsImporter.exe.SIN-DEV.config
+C:\Tigerspike_DND\Tiger Spike Unblock\Tigerspike\woolworths-supermarkets-importers\WeeklySpecialsImporter\bin\Debug\WeeklySpecialsImporter.exe.SIN-INT.config
+C:\Tigerspike_DND\Tiger Spike Unblock\Tigerspike\woolworths-supermarkets-importers\WeeklySpecialsImporter\bin\Debug\WeeklySpecialsImporter.exe.SYD-LIVE-WOW.config
+C:\Tigerspike_DND\Tiger Spike Unblock\Tigerspike\woolworths-supermarkets-importers\WeeklySpecialsImporter\bin\Debug\WeeklySpecialsImporter.exe.SYD-UAT-WOW.config
+C:\Tigerspike_DND\Tiger Spike Unblock\Tigerspike\woolworths-supermarkets-importers\WeeklySpecialsImporter\bin\Debug\WeeklySpecialsImporter.exe.config
+C:\Tigerspike_DND\Tiger Spike Unblock\Tigerspike\woolworths-supermarkets-importers\WeeklySpecialsImporter\bin\Debug\WeeklySpecialsImporter.exe
+C:\Tigerspike_DND\Tiger Spike Unblock\Tigerspike\woolworths-supermarkets-importers\WeeklySpecialsImporter\bin\Debug\WeeklySpecialsImporter.pdb
+C:\Tigerspike_DND\Tiger Spike Unblock\Tigerspike\woolworths-supermarkets-importers\WeeklySpecialsImporter\bin\Debug\ImporterBLL.dll
+C:\Tigerspike_DND\Tiger Spike Unblock\Tigerspike\woolworths-supermarkets-importers\WeeklySpecialsImporter\bin\Debug\WoolworthsDAL.dll
+C:\Tigerspike_DND\Tiger Spike Unblock\Tigerspike\woolworths-supermarkets-importers\WeeklySpecialsImporter\bin\Debug\AWSSDK.dll
+C:\Tigerspike_DND\Tiger Spike Unblock\Tigerspike\woolworths-supermarkets-importers\WeeklySpecialsImporter\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Tigerspike_DND\Tiger Spike Unblock\Tigerspike\woolworths-supermarkets-importers\WeeklySpecialsImporter\bin\Debug\ImporterBLL.pdb
+C:\Tigerspike_DND\Tiger Spike Unblock\Tigerspike\woolworths-supermarkets-importers\WeeklySpecialsImporter\obj\x86\Debug\WeeklySpecialsImporter.ProjectInstaller.resources
+C:\Tigerspike_DND\Tiger Spike Unblock\Tigerspike\woolworths-supermarkets-importers\WeeklySpecialsImporter\obj\x86\Debug\WeeklySpecialsImporter.csproj.GenerateResource.Cache
+C:\Tigerspike_DND\Tiger Spike Unblock\Tigerspike\woolworths-supermarkets-importers\WeeklySpecialsImporter\obj\x86\Debug\WeeklySpecialsImporter.exe
+C:\Tigerspike_DND\Tiger Spike Unblock\Tigerspike\woolworths-supermarkets-importers\WeeklySpecialsImporter\obj\x86\Debug\WeeklySpecialsImporter.pdb
+C:\Tigerspike_DND\Tiger Spike Unblock\Tigerspike\woolworths-supermarkets-importers\WeeklySpecialsImporter\obj\x86\Debug\WeeklySpecialsImporter.csprojResolveAssemblyReference.cache

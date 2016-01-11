@@ -1,0 +1,63 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="ProductWebCategoryImporter.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="EmailThreshhold" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">4</Value>
+    </Setting>
+    <Setting Name="EmailGracefulThreshhold" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">4</Value>
+    </Setting>
+    <Setting Name="FileThreshhold" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">2</Value>
+    </Setting>
+    <Setting Name="FileGracefulThreshhold" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">2</Value>
+    </Setting>
+    <Setting Name="SummaryReportFromEmailAddress" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">errors@tigerspike.com</Value>
+    </Setting>
+    <Setting Name="StagingTableName" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Staging_WebCategory_Category</Value>
+    </Setting>
+    <Setting Name="FileNameDateCheckOffsetDays" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="SummaryReportErrorToEmailAddress" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">tony.crosby@tigerspike.com</Value>
+    </Setting>
+    <Setting Name="SummaryReportFromAddressFriendlyName" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Woolworths (UAT) Importer Errors</Value>
+    </Setting>
+    <Setting Name="FilenameFormatRegex" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">MASTER_WEB_CATEGORY_(\d{8})\.csv</Value>
+    </Setting>
+    <Setting Name="SqlaServerPath" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">\\syda-wowsql\bulk\</Value>
+    </Setting>
+    <Setting Name="SqlbServerPath" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">\\sydb-wowsql\bulk\</Value>
+    </Setting>
+    <Setting Name="LocalSqlPath" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">t:\bulk\</Value>
+    </Setting>
+    <Setting Name="FileName" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">MASTER_WEB_CATEGORY_{0}.TXT</Value>
+    </Setting>
+    <Setting Name="ArchivePath" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">uat/archive/</Value>
+    </Setting>
+    <Setting Name="FilePath" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">uat/from_wow/</Value>
+    </Setting>
+    <Setting Name="FormatFilePath" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">uat/configs/WebCategoryDataFormat.txt</Value>
+    </Setting>
+    <Setting Name="TemporaryUploadFolder" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">z:\upload\</Value>
+    </Setting>
+    <Setting Name="DaysToRun" Type="System.String" Scope="Application">
+      <Value Profile="(Default)" />
+    </Setting>
+  </Settings>
+</SettingsFile>

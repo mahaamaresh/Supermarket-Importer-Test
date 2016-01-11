@@ -1,0 +1,17 @@
+C:\Tigerspike_DND\Tiger Spike Unblock\Tigerspike\woolworths-supermarkets-importers\ProductLocationDaily\bin\Debug\ProductLocationDailyImporter.exe.SIN-DEV.config
+C:\Tigerspike_DND\Tiger Spike Unblock\Tigerspike\woolworths-supermarkets-importers\ProductLocationDaily\bin\Debug\ProductLocationDailyImporter.exe.SIN-INT.config
+C:\Tigerspike_DND\Tiger Spike Unblock\Tigerspike\woolworths-supermarkets-importers\ProductLocationDaily\bin\Debug\ProductLocationDailyImporter.exe.SYD-LIVE-WOW.config
+C:\Tigerspike_DND\Tiger Spike Unblock\Tigerspike\woolworths-supermarkets-importers\ProductLocationDaily\bin\Debug\ProductLocationDailyImporter.exe.SYD-UAT-WOW.config
+C:\Tigerspike_DND\Tiger Spike Unblock\Tigerspike\woolworths-supermarkets-importers\ProductLocationDaily\bin\Debug\ProductLocationDaily.exe.config
+C:\Tigerspike_DND\Tiger Spike Unblock\Tigerspike\woolworths-supermarkets-importers\ProductLocationDaily\bin\Debug\ProductLocationDaily.exe
+C:\Tigerspike_DND\Tiger Spike Unblock\Tigerspike\woolworths-supermarkets-importers\ProductLocationDaily\bin\Debug\ProductLocationDaily.pdb
+C:\Tigerspike_DND\Tiger Spike Unblock\Tigerspike\woolworths-supermarkets-importers\ProductLocationDaily\bin\Debug\ImporterBLL.dll
+C:\Tigerspike_DND\Tiger Spike Unblock\Tigerspike\woolworths-supermarkets-importers\ProductLocationDaily\bin\Debug\WoolworthsDAL.dll
+C:\Tigerspike_DND\Tiger Spike Unblock\Tigerspike\woolworths-supermarkets-importers\ProductLocationDaily\bin\Debug\AWSSDK.dll
+C:\Tigerspike_DND\Tiger Spike Unblock\Tigerspike\woolworths-supermarkets-importers\ProductLocationDaily\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Tigerspike_DND\Tiger Spike Unblock\Tigerspike\woolworths-supermarkets-importers\ProductLocationDaily\bin\Debug\ImporterBLL.pdb
+C:\Tigerspike_DND\Tiger Spike Unblock\Tigerspike\woolworths-supermarkets-importers\ProductLocationDaily\obj\x86\Debug\ProductLocationDailyImporter.ProjectInstaller.resources
+C:\Tigerspike_DND\Tiger Spike Unblock\Tigerspike\woolworths-supermarkets-importers\ProductLocationDaily\obj\x86\Debug\ProductLocationDailyImporter.csproj.GenerateResource.Cache
+C:\Tigerspike_DND\Tiger Spike Unblock\Tigerspike\woolworths-supermarkets-importers\ProductLocationDaily\obj\x86\Debug\ProductLocationDaily.exe
+C:\Tigerspike_DND\Tiger Spike Unblock\Tigerspike\woolworths-supermarkets-importers\ProductLocationDaily\obj\x86\Debug\ProductLocationDaily.pdb
+C:\Tigerspike_DND\Tiger Spike Unblock\Tigerspike\woolworths-supermarkets-importers\ProductLocationDaily\obj\x86\Debug\ProductLocationDailyImporter.csprojResolveAssemblyReference.cache

@@ -1,0 +1,11 @@
+10.0
+9
+1	SQLCHAR	0	1	"\""		0	ExtraColumn	Latin1_General_CI_AS
+2	SQLCHAR	0	13	"\",\""		1	EDRNo		Latin1_General_CI_AS
+3	SQLCHAR	0	255	"\",\""		2	URL		Latin1_General_CI_AS
+4	SQLCHAR	0	10	"\",\""		3	CampaignCode	Latin1_General_CI_AS
+5	SQLCHAR	0	20	"\",\""		4	OfferNo		Latin1_General_CI_AS
+6	SQLCHAR	0	164	"\",\""		5	Description	Latin1_General_CI_AS
+7	SQLCHAR	0	10	"\",\""		6	StartDate	Latin1_General_CI_AS
+8	SQLCHAR	0	10	"\",\""		7	EndDate		Latin1_General_CI_AS
+9	SQLCHAR	0	3	"\"\r\n"	8	ActivationOffer	Latin1_General_CI_AS

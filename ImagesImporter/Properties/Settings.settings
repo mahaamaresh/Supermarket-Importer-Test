@@ -1,0 +1,81 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="ImagesImporter.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="EmailThreshhold" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">4</Value>
+    </Setting>
+    <Setting Name="EmailGracefulThreshhold" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">4</Value>
+    </Setting>
+    <Setting Name="FileThreshhold" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">2</Value>
+    </Setting>
+    <Setting Name="FileGracefulThreshhold" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">2</Value>
+    </Setting>
+    <Setting Name="FileList" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">0,1,2,3,4,5,6,7,8,9</Value>
+    </Setting>
+    <Setting Name="FileName" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">SmartPhone_Images_{0}x_{1}.zip</Value>
+    </Setting>
+    <Setting Name="SummaryReportFromEmailAddress" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">errors@tigerspike.com</Value>
+    </Setting>
+    <Setting Name="SummaryReportFromAddressFriendlyName" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Woolworths Importer Errors</Value>
+    </Setting>
+    <Setting Name="FileNameDateCheckOffsetDays" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="FileNameDateCheckOffsetDaysPEL" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">-1</Value>
+    </Setting>
+    <Setting Name="SummaryReportErrorToEmailAddress" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">tony.crosby@tigerspike.com</Value>
+    </Setting>
+    <Setting Name="PELFileName" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">PEL_Images_{1}.zip</Value>
+    </Setting>
+    <Setting Name="PELFileList" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="AWSAccessKey" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">AKIAI7K2VE3PCZLMFU6A</Value>
+    </Setting>
+    <Setting Name="AWSSecretKey" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">wAL+QxfCbDeFukHvfFEWa4/Go0tQKdEKc2TNAWSl</Value>
+    </Setting>
+    <Setting Name="AWSRegionName" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">ap-southeast-2</Value>
+    </Setting>
+    <Setting Name="LocalSqlPath" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">t:\bulk\</Value>
+    </Setting>
+    <Setting Name="AWSS3BucketName" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">wow-mobile.images</Value>
+    </Setting>
+    <Setting Name="DestinationPath" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">z:\UnzippedImages</Value>
+    </Setting>
+    <Setting Name="TemporaryUploadFolder" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">z:\upload\</Value>
+    </Setting>
+    <Setting Name="ArchivePath" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">uat/archive/</Value>
+    </Setting>
+    <Setting Name="FilePath" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">uat/from_wow/</Value>
+    </Setting>
+    <Setting Name="SqlaServerPath" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">\\syda-uatwowsql\bulk\</Value>
+    </Setting>
+    <Setting Name="SqlbServerPath" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">\\sydb-uatwowsql\bulk\</Value>
+    </Setting>
+    <Setting Name="DaysToRun" Type="System.String" Scope="Application">
+      <Value Profile="(Default)" />
+    </Setting>
+  </Settings>
+</SettingsFile>

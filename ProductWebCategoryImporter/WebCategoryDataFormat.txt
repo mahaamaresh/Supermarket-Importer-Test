@@ -1,0 +1,8 @@
+10.0
+6
+1	SQLCHAR	0	1	"\""		0	ExtraColumn		Latin1_General_CI_AS
+2	SQLCHAR	0	18	"\",\""		1	ProductArticle		Latin1_General_CI_AS
+3	SQLCHAR	0	50	"\",\""		2	TradingDeptName		Latin1_General_CI_AS
+4	SQLCHAR	0	50	"\",\""		3	CoarseDeptName		Latin1_General_CI_AS
+5	SQLCHAR	0	50	"\",\""		4	FineDeptName		Latin1_General_CI_AS
+6	SQLCHAR	0	50	"\"\r\n"	5	SalesOrg		Latin1_General_CI_AS

@@ -1,0 +1,17 @@
+C:\Tigerspike_DND\Tiger Spike Unblock\Tigerspike\woolworths-supermarkets-importers\HealthWellbeingImporter\bin\Debug\HealthWellbeingImporter.exe.SIN-DEV.config
+C:\Tigerspike_DND\Tiger Spike Unblock\Tigerspike\woolworths-supermarkets-importers\HealthWellbeingImporter\bin\Debug\HealthWellbeingImporter.exe.SIN-INT.config
+C:\Tigerspike_DND\Tiger Spike Unblock\Tigerspike\woolworths-supermarkets-importers\HealthWellbeingImporter\bin\Debug\HealthWellbeingImporter.exe.SYD-LIVE-WOW.config
+C:\Tigerspike_DND\Tiger Spike Unblock\Tigerspike\woolworths-supermarkets-importers\HealthWellbeingImporter\bin\Debug\HealthWellbeingImporter.exe.SYD-UAT-WOW.config
+C:\Tigerspike_DND\Tiger Spike Unblock\Tigerspike\woolworths-supermarkets-importers\HealthWellbeingImporter\bin\Debug\HealthWellbeingImporter.exe.config
+C:\Tigerspike_DND\Tiger Spike Unblock\Tigerspike\woolworths-supermarkets-importers\HealthWellbeingImporter\bin\Debug\HealthWellbeingImporter.exe
+C:\Tigerspike_DND\Tiger Spike Unblock\Tigerspike\woolworths-supermarkets-importers\HealthWellbeingImporter\bin\Debug\HealthWellbeingImporter.pdb
+C:\Tigerspike_DND\Tiger Spike Unblock\Tigerspike\woolworths-supermarkets-importers\HealthWellbeingImporter\bin\Debug\ImporterBLL.dll
+C:\Tigerspike_DND\Tiger Spike Unblock\Tigerspike\woolworths-supermarkets-importers\HealthWellbeingImporter\bin\Debug\WoolworthsDAL.dll
+C:\Tigerspike_DND\Tiger Spike Unblock\Tigerspike\woolworths-supermarkets-importers\HealthWellbeingImporter\bin\Debug\AWSSDK.dll
+C:\Tigerspike_DND\Tiger Spike Unblock\Tigerspike\woolworths-supermarkets-importers\HealthWellbeingImporter\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Tigerspike_DND\Tiger Spike Unblock\Tigerspike\woolworths-supermarkets-importers\HealthWellbeingImporter\bin\Debug\ImporterBLL.pdb
+C:\Tigerspike_DND\Tiger Spike Unblock\Tigerspike\woolworths-supermarkets-importers\HealthWellbeingImporter\obj\x86\Debug\HealthWellbeingImporter.csprojResolveAssemblyReference.cache
+C:\Tigerspike_DND\Tiger Spike Unblock\Tigerspike\woolworths-supermarkets-importers\HealthWellbeingImporter\obj\x86\Debug\HealthWellbeingImporter.ProjectInstaller.resources
+C:\Tigerspike_DND\Tiger Spike Unblock\Tigerspike\woolworths-supermarkets-importers\HealthWellbeingImporter\obj\x86\Debug\HealthWellbeingImporter.csproj.GenerateResource.Cache
+C:\Tigerspike_DND\Tiger Spike Unblock\Tigerspike\woolworths-supermarkets-importers\HealthWellbeingImporter\obj\x86\Debug\HealthWellbeingImporter.exe
+C:\Tigerspike_DND\Tiger Spike Unblock\Tigerspike\woolworths-supermarkets-importers\HealthWellbeingImporter\obj\x86\Debug\HealthWellbeingImporter.pdb

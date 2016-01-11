@@ -1,0 +1,16 @@
+C:\Tigerspike_DND\Tiger Spike Unblock\Tigerspike\woolworths-supermarkets-importers\TargetedOfferPELImporter\bin\Debug\TargetedOfferPELImporter.exe.SIN-DEV.config
+C:\Tigerspike_DND\Tiger Spike Unblock\Tigerspike\woolworths-supermarkets-importers\TargetedOfferPELImporter\bin\Debug\TargetedOfferPELImporter.exe.SIN-INT.config
+C:\Tigerspike_DND\Tiger Spike Unblock\Tigerspike\woolworths-supermarkets-importers\TargetedOfferPELImporter\bin\Debug\TargetedOfferPELImporter.exe.SYD-LIVE-WOW.config
+C:\Tigerspike_DND\Tiger Spike Unblock\Tigerspike\woolworths-supermarkets-importers\TargetedOfferPELImporter\bin\Debug\TargetedOfferPELImporter.exe.SYD-UAT-WOW.config
+C:\Tigerspike_DND\Tiger Spike Unblock\Tigerspike\woolworths-supermarkets-importers\TargetedOfferPELImporter\bin\Debug\TargetedOfferPELImporter.exe.config
+C:\Tigerspike_DND\Tiger Spike Unblock\Tigerspike\woolworths-supermarkets-importers\TargetedOfferPELImporter\bin\Debug\TargetedOfferPELImporter.exe
+C:\Tigerspike_DND\Tiger Spike Unblock\Tigerspike\woolworths-supermarkets-importers\TargetedOfferPELImporter\bin\Debug\TargetedOfferPELImporter.pdb
+C:\Tigerspike_DND\Tiger Spike Unblock\Tigerspike\woolworths-supermarkets-importers\TargetedOfferPELImporter\bin\Debug\ImporterBLL.dll
+C:\Tigerspike_DND\Tiger Spike Unblock\Tigerspike\woolworths-supermarkets-importers\TargetedOfferPELImporter\bin\Debug\WoolworthsDAL.dll
+C:\Tigerspike_DND\Tiger Spike Unblock\Tigerspike\woolworths-supermarkets-importers\TargetedOfferPELImporter\bin\Debug\AWSSDK.dll
+C:\Tigerspike_DND\Tiger Spike Unblock\Tigerspike\woolworths-supermarkets-importers\TargetedOfferPELImporter\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Tigerspike_DND\Tiger Spike Unblock\Tigerspike\woolworths-supermarkets-importers\TargetedOfferPELImporter\bin\Debug\ImporterBLL.pdb
+C:\Tigerspike_DND\Tiger Spike Unblock\Tigerspike\woolworths-supermarkets-importers\TargetedOfferPELImporter\obj\x86\Debug\TargetedOfferPELImporter.ProjectInstaller.resources
+C:\Tigerspike_DND\Tiger Spike Unblock\Tigerspike\woolworths-supermarkets-importers\TargetedOfferPELImporter\obj\x86\Debug\TargetedOfferPELImporter.csproj.GenerateResource.Cache
+C:\Tigerspike_DND\Tiger Spike Unblock\Tigerspike\woolworths-supermarkets-importers\TargetedOfferPELImporter\obj\x86\Debug\TargetedOfferPELImporter.exe
+C:\Tigerspike_DND\Tiger Spike Unblock\Tigerspike\woolworths-supermarkets-importers\TargetedOfferPELImporter\obj\x86\Debug\TargetedOfferPELImporter.pdb
